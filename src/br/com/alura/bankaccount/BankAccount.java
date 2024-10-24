@@ -1,4 +1,4 @@
-package br.com.alura.Bankaccount;
+package br.com.alura.bankaccount;
 
 public class BankAccount {
     private final int accountNumber;

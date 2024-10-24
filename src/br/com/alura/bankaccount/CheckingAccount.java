@@ -1,4 +1,4 @@
-package br.com.alura.Bankaccount;
+package br.com.alura.bankaccount;
 
 public class CheckingAccount extends BankAccount{
     public CheckingAccount(int accountNumber, String holder, double balance, double monthlyFee) {

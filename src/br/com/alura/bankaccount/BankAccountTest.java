@@ -1,4 +1,4 @@
-package br.com.alura.Bankaccount;
+package br.com.alura.bankaccount;
 
 public class BankAccountTest {
     public static void main(String[] args) {

@@ -1,10 +1,10 @@
 package br.com.alura.animal;
 
 public class Animal {
-    private String name;
-    private String specie;
-    private String race;
-    private int age;
+    private final String name;
+    private final String specie;
+    private final String race;
+    private final int age;
 
     public Animal(String name, String specie, String race, int age) {
         this.name = name;
